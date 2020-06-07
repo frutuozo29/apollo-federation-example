@@ -1,0 +1,19 @@
+{
+  "name": "afe-customers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Renan Frutuozo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/federation": "^0.16.4",
+    "apollo-server": "^2.14.2",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

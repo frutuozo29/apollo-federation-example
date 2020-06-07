@@ -1,0 +1,22 @@
+{
+  "name": "afe-gateway",
+  "version": "1.0.0",
+  "description": "Apollo federation Gateway",
+  "main": "index.js",
+  "author": "Renan Frutuozo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/gateway": "^0.16.4",
+    "apollo-server": "^2.14.2",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.0.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

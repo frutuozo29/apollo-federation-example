@@ -3,11 +3,7 @@
 
 > Projeto criado para demostrar como conectar varios microservices em um endpoint graphql e demostrar a utilização de JWT para autenticação dos microservices conectados, limitando suas consultas para retornar registros apenas da organização que cada usuário está associado
 
-
-
-![ImagemMobile](https://raw.githubusercontent.com/frutuozo29/apollo-federation-example/master/afe.png)
-
-
+![](/afe.png)
 
 ## Instalação
 
